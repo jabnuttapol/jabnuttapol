@@ -8,7 +8,7 @@ Looking for a programming job.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [jabnuttapol@gmail.com](mailto:jabnuttapol@gmail.com)
-* 🧠  I'm learning Frontend Developer
+* 🧠  I'm learning programmer
 
 ### Skills
 
