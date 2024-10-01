@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Trainee Programmer
 ------------------
 
-Looking for a programming job.
+Looking for a Frontend Developer job.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [jabnuttapol@gmail.com](mailto:jabnuttapol@gmail.com)
